@@ -1,6 +1,6 @@
 # csc1037-usernames
 
-TTest repo for CSC1037.
+Test repo for CSC1037.
 The directory users should contain exactly one file for each student on this module.
 
 Your task is to create a file users/USERNAME, where USERNAME is replaced with your username.
