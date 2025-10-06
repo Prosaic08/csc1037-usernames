@@ -2,16 +2,23 @@
 
 TTest repo for CSC1037.
 The directory users should contain exactly one file for each student on this module.
+
 Your task is to create a file users/USERNAME, where USERNAME is replaced with your username.
+
 The contents of the file do not matter, just the name.
+
 Note that there is no extension on the file name.
+
 There's an example for the user litingzhou already in the users directory.
+
 Commit your change, push it back to your repo on GitLab, and submit a merge request.
+
 Merge requests will be accepted so long as:
 
-they are not from your master branch,
-they do not include extraneous commits, and
-they contain reasonable commit messages.
+
+- they are not from your master branch,
+- they do not include extraneous commits, and
+- they contain reasonable commit messages.
 
 
 Tips
